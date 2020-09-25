@@ -31,12 +31,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
 
-<br>
-
-<br>
-
-[![Website](https://img.shields.io/website?label=vincentzhangz.com&style=for-the-badge&url=https%3A%2F%2Fvincentzhangz.com)][website]
-
 
 [linkedin]: https://www.linkedin.com/in/nelsonmario/
 [facebook]: https://web.facebook.com/nelson.mario

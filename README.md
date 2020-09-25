@@ -34,3 +34,5 @@
 
 [linkedin]: https://www.linkedin.com/in/nelsonmario/
 [facebook]: https://web.facebook.com/nelson.mario
+
+[![NelsonMario's github stats](https://github-readme-stats.vercel.app/api?username=NelsonMario)](https://github.com/NelsonMario/github-readme-stats)

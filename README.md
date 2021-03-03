@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nelson Mario <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a Binus University Computer Science Student, Developer, and Teaching Assistant at Binus University!
+## I'm a Binus University Computer Science Student, Developer, and Teaching Assistant, Database Administrator at Binus University!
 - 🌱 I’m currently learning flutter, Deep Learning, Computer Vision
 
 <br>

@@ -5,7 +5,6 @@
 <br>
 
 ### You can find me on:
-- Website   : https://nelsonmario.site/ 
 - Linkedin  : https://www.linkedin.com/in/nelsonmario/
 - Facebook  : https://web.facebook.com/nelson.mario
 - Instagram : https://www.instagram.com/nlsnmario/
